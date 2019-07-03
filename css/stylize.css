@@ -1,0 +1,46 @@
+h1,h2,h3,h4,h5,h6{
+    color: brown
+}
+
+p{
+    color: aqua
+}
+.hated{
+    color: red
+}
+.jagonz{
+    font-size:  50px;
+}
+#expception{
+    color: orangered
+}
+.odd{
+    background-color: darkviolet;
+    background-image: url(../images/naaa.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed
+}
+
+.even{
+    background-color: darkviolet;
+    background-image: url(../images/naaa.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed
+}
+p{
+    color: crimson;
+    text-align: center;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    line-height: 40px;
+    font-size: 10px;
+    font-weight: 900px;
+    font-style: italic;
+    font-family: monospace;
+}
